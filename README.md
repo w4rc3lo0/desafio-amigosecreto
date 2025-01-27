@@ -29,5 +29,5 @@ No se requieren dependencias externas para este proyecto. Solo necesitas un nave
 
 1. Clona el repositorio a tu máquina local:
 
-   ```bash
+   ``https://github.com/w4rc3lo0/desafio-amigosecreto.git`bash
 https://github.com/w4rc3lo0/desafio-amigosecreto.git
